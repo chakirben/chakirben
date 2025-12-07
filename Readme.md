@@ -52,13 +52,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chakirben&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-
-
 ## 📬 Contact Me
 <p>
   <a href="https://www.linkedin.com/in/chakir-benlafkih/">
