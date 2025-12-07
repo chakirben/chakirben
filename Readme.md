@@ -1,37 +1,82 @@
-# Hi, I'm Chakir 👋
-
-💻 **Full-stack developer in progress**  
-🎓 Currently diving deep into **System Administration**, **Java / Spring**, and **Web Development**  
-⚡ Passionate about solving problems, building clean systems, and learning new tools every day.
+<h1 align="center">Hi there 👋, I'm Chakir Benlafkih</h1>
+<h3 align="center">Full-Stack Developer | Go & Js & Java & Rust</h3>
 
 ---
 
-## 🚀 What I'm Working On
-- Building school + personal projects to sharpen backend & sysadmin skills  
-- Exploring virtualization, containerization, and automation  
-- Improving my UI/UX skills by creating cleaner, simpler interfaces  
+🎓 **Currently exploring advanced software development**  
+💼 Experience building real-time apps, frameworks, and web platforms  
+🧠 Always learning new technologies, solving challenging problems  
+🌍 Focused on Go, Java, JavaScript, React, Rust, and WebSocket  
 
 ---
 
-## 🛠️ Tech & Tools
-**Languages:** Java, JavaScript, Go, Bash  
-**Frameworks:** Spring Boot, React (beginner)  
-**Tools:** Linux, Git, VirtualBox, Docker (learning)  
-**Databases:** MySQL, PostgreSQL  
+## 🛠️ Tech Stack
+
+### 💻 Main Skills
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+### 🌐 Web & Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🖥️ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
+
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+
+
+## 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chakirben&show_icons=true&theme=dark&hide_border=false&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakirben&layout=compact&theme=dark&hide_border=false" />
+</div>
 
 ---
 
-## 📌 Featured Projects
-- 💬 **Real-Time Forum** — messaging, posts, comments, reactions  
-- 🌐 **SysAdmin Lab** — VM management, snapshots, users management  
-- 🧩 **Ideathoon Platform** — idea competitions & collaboration  
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AmineHabchi&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
-*(You can pin these below once you add them as repositories.)*
 
----
 
-## 📫 Connect with Me
-- LinkedIn: *(add link)*  
-- Email: *(add email)*  
+## 📬 Contact Me
+<p>
+  <a href="https://www.linkedin.com/in/chakir-benlafkih/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:chakir.benlafkih@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-Thanks for visiting my profile! 🚀  
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</div>
