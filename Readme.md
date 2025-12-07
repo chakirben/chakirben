@@ -50,13 +50,6 @@
 </p>
 
 
-
-## 📈 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chakirben&show_icons=true&theme=dark&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakirben&layout=compact&theme=dark&hide_border=false" />
-</div>
-
 ---
 
 ## 🔥 GitHub Streak
