@@ -54,7 +54,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmineHabchi&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=chakirben&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 
